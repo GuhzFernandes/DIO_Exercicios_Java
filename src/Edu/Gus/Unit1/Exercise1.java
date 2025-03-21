@@ -1,5 +1,5 @@
 //Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"
-package Edu.Gus.Unit1;
+package Edu.gus.unit1;
 
 import java.time.LocalDateTime;
 import java.util.Scanner;

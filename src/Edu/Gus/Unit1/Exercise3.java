@@ -1,5 +1,5 @@
 //Escreva um código que receba a base e a altura de um retângulo, calcule sua área e exiba na tela
-package Edu.Gus.Unit1;
+package Edu.gus.unit1;
 import java.util.Scanner;
 public class Exercise3 {
     public static void main(String[] args) {

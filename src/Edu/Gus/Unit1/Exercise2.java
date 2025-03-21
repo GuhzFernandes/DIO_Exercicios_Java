@@ -1,6 +1,6 @@
 //Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela
 
-package Edu.Gus.Unit1;
+package Edu.gus.unit1;
 
 import java.util.Scanner;
 
