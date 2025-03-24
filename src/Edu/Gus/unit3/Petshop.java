@@ -20,7 +20,7 @@ public class Petshop {
         maquinaBanho.checarAgua();
         maquinaBanho.checarShampoo();
 
-        // 🐶 Primeiro cachorro
+        // Primeiro pet
         System.out.println("\n--- BANHO 1 ---");
         maquinaBanho.checarPet();
         maquinaBanho.colocarPet();
